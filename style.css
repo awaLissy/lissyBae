@@ -1,0 +1,42 @@
+div
+ img{
+
+ height: 500px;
+ border-radius: 30%;
+}
+
+h1
+#marquee{height: 100px;
+ border-radius: 30%;
+}
+{
+
+height:100px
+background-color:red;
+margin-top: 100px;
+padding-left:50px;
+padding-top: 50px;
+border: 10;
+box-decoration-break: 40px}
+
+div
+ul{
+	font-family:sans-serif;
+	font-size: 50px;
+	box-shadow: 80px;
+}
+#marquee {
+font-size:500px
+color:red;
+border-left-color: blue
+}
+
+ul{
+background-color:pink;
+margin-right: 100px
+padding-left:500px
+padding-top: 500px;
+border: 500px;
+border-bottom-color: purple
+}
+
